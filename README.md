@@ -1,3 +1,4 @@
 # learning-Demo
-This is were i'm seriously starting My journey as A developer 
-Author - Gaurav Patil
+<p>This is were i'm seriously starting My journey as A developer </p>
+<br>
+<h2>Author - Gaurav Patil</h2>
